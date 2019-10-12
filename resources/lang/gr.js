@@ -13,7 +13,7 @@ const L10N = {
     'general_photo_key': 'Κωδικός κλειδιού που ενεργοποιεί μια φωτογραφία',
     'general_collage_key': 'Κωδικός κλειδιού που ενεργοποιεί ένα κολάζ',
     'cups_button': 'Εμφάνιση του κουμπιού CUPS',
-    'gallery': 'στοά',
+    'gallery': 'Φωτογραφική συλλογή',
     'startScreen': '<h1>Photobooth</h1><h2>Webinterface</h2> by Andr\u00e9 Rinas',
     'general_start_screen_title': 'Αρχική οθόνη (τίτλος)',
     'general_start_screen_subtitle': 'Αρχική οθόνη (υπότιτλος)',
