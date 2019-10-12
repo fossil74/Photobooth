@@ -6,10 +6,11 @@ $configsetup = [
 			'name' => 'language',
 			'placeholder' => 'language',
 			'options' => [
-				'de' => 'DE',
-				'fr' => 'FR',
-				'en' => 'EN',
-				'es' => 'ES'
+				'de' => '🇩🇪 Deutsch',
+				'gr' => '🇬🇷 Eλληνικά',
+				'fr' => '🇫🇷 Français',
+				'en' => '🏴󠁧󠁢󠁥󠁮󠁧󠁿 English',
+				'es' => '🇪🇸 Español'
 			],
 			'value' => $config['language']
 		],
