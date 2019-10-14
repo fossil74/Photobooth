@@ -30,6 +30,10 @@ $mailTemplates = [
     'de' => [
         'mail_subject' => 'Hier ist dein Bild',
         'mail_text' => 'Hey, dein Bild ist angehangen.',
+        ],
+    'gr' => [
+        'mail_subject' => 'Εδώ είναι η φωτογραφία σας',
+        'mail_text' => 'Γεια σου, η φωτογραφία σου είναι συνημμένη.',
     ],
     'en' => [
         'mail_subject' => 'Here is your picture',
