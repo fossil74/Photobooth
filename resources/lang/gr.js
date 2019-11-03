@@ -1,5 +1,11 @@
 /* exported L10N */
 const L10N = {
+    'login': 'Login',
+    'login_enabled': 'Ενεργοποίηση Login',
+    'login_username': 'Ονομα χρήστη',
+    'login_password': 'κωδικό πρόσβασης',
+    'login_random1': 'τυχαίος',
+    'login_invalid': 'Ονομα χρήστη ή ο κωδικός πρόσβασης είναι άκυρος!',
     'continuous_collage': 'Εγγραφή κολάζ χωρίς διακοπή',
     'delete': 'διαγραφή',
     'using_latest_version': 'Το Photobooth είναι ενημερωμένο.',
